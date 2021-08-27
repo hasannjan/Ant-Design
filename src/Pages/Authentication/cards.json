@@ -1,0 +1,50 @@
+[
+    {   
+        "id":1,
+        "name":"iPhone",
+        "category":"Mobile",
+        "src":"https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iPhone-11-Pro-midnight-green-back.png",
+        "Avatar":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "price":"$700"
+    },
+    {
+        "id":2,
+        "name":"Samsung",
+        "category":"Mobile",
+        "src":"https://fdn.gsmarena.com/imgroot/news/21/03/samsung-galaxy-note-delayed/inline/-1200w5/gsmarena_002.jpg",
+        "Avatar":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "price":"$600"
+    },
+    {   
+        "id":3,
+        "name":"HP Probook",
+        "category":"Laptop",
+        "src":"https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c06961761.png",
+        "Avatar":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "price":"$450"
+    },
+    {   
+        "id":4,
+        "name":"Kingston USB",
+        "category":"Accesories",
+        "src":"https://www.czone.com.pk/images/products/1601399250-1595701-1540-10332-101020105807.jpg",
+        "Avatar":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "price":"$450"
+    },
+    {   
+        "id":5,
+        "name":"HP Mouse",
+        "category":"Peripherals",
+        "src":"https://www.czone.com.pk/images/products/24-czone.com.pk-1540-348-300421083544.jpg",
+        "Avatar":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "price":"$450"
+    },
+    {   
+        "id":6,
+        "name":"Samsung Monitor",
+        "category":"Screens",
+        "src":"https://www.czone.com.pk/images/products/13-czone.com.pk-1540-11735-180621120551.jpg",
+        "Avatar":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "price":"$450"
+    }
+]

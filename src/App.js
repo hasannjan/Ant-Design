@@ -6,7 +6,7 @@ import Welcome from './Pages/Authentication/Welcome';
 import Signup from './View/Forms/Signup';
 import Login from './View/Login';
 
-const state = {
+const state = { 
   LOGIN: "LOGIN",
   SIGN_UP: "SIGN_UP",
   DASHBOARD: "DASHBOARD"
